@@ -10,6 +10,7 @@ Implemented algorithms:-
 * ## Bidirectional Search
 * ## Greedy Search
 * ## A* Search
-* ## Centralties: Degree, closeness, Eigenvector, pagerank, betweeness
+* ### Centralties: Degree, closeness, Eigenvector, pagerank, betweeness
 
-![Romanian map] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjhOaNQluBq0W4J22IEiNG5RIGwv7JOlJN2g8xI16pgg&s)
+![Romanian map] (https://github.com/Isa1asN/search-algorithms-assignment/blob/main/map.jpg?raw=true)
+
