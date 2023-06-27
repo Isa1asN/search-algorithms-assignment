@@ -13,6 +13,6 @@ Implemented algorithms:-
 * ### Centralties: Degree, closeness, Eigenvector, pagerank, betweeness
 
 
-![Romanian map]((https://github.com/Isa1asN/search-algorithms-assignment/blob/main/map.jpg?raw=true)
+![Romanian map](https://github.com/Isa1asN/search-algorithms-assignment/blob/main/map.jpg?raw=true)
 
 
